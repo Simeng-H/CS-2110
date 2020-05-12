@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearchTree",
+            "request": "launch",
+            "mainClass": "BinarySearchTree",
+            "projectName": "Homework7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeNode",
+            "request": "launch",
+            "mainClass": "TreeNode",
+            "projectName": "Homework7"
+        }
+    ]
+}

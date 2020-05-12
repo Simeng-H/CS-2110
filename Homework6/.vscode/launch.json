@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "Homework6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GreetingCardPrinter",
+            "request": "launch",
+            "mainClass": "GreetingCardPrinter",
+            "projectName": "Homework6"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PhotoViewer",
+            "request": "launch",
+            "mainClass": "PhotoViewer",
+            "projectName": "Homework5_2"
+        }
+    ]
+}
